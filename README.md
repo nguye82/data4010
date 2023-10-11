@@ -4,3 +4,6 @@ You can find the following files related to the project in this repository:
 
 - Python file to generate synthetic data from MNIST data
 - Python file to build the model
+
+
+| col 1 hdr | col 2 hdr |
